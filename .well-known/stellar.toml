@@ -8,7 +8,7 @@ ACCOUNTS=[
 ORG_NAME="LINK.IO LTD."
 ORG_DBA="LINK"
 ORG_URL="https://www.linkio.africa/"
-ORG_LOGO="https://uploads-ssl.webflow.com/60a70a1080cf2974d4b1595e/60b623a4d06b3b67a49c9e82_WEBCLIP.png"
+ORG_LOGO="https://uploads-ssl.webflow.com/60a70a1080cf2974d4b1595e/61a563ccd5a82c9cee1ae78e_linklogo.png"
 ORG_DESCRIPTION="LINK is a Global Cross Border payments platform for the next billion Africans, providing services in a Faster and Cheaper way"
 ORG_PHYSICAL_ADDRESS="2 Fredrick Street, Kings Cross, London, United Kingdom WC1X 0ND"
 ORG_TWITTER="link_io"
@@ -22,7 +22,7 @@ email="tomisinleshi@gmail.com"
 [[CURRENCIES]]
 code="NGNC"
 issuer="GASBV6W7GGED66MXEVC7YZHTWWYMSVYEY35USF2HJZBLABLYIFQGXZY6"
-image="https://uploads-ssl.webflow.com/60a70a1080cf2974d4b1595e/61961ce43c530394bcb05349_NGRC.png"
+image="https://uploads-ssl.webflow.com/60a70a1080cf2974d4b1595e/61a563cdf8821aafa156914d_ngnclogo.png"
 desc="Asset backed token pegged 1:1 to Nigerian Naira ₦"
 display_decimals=2
 is_asset_anchored=true
