@@ -1,4 +1,4 @@
-LINK IO Stellar toml
+#LINK IO Stellar toml
 FEDERATION_SERVER = 'https://api.linkupio.com/federation'
 AUTH_SERVER = 'https://api.linkupio.com/auth'
 TRANSFER_SERVER = 'https://api.linkupio.com/transfer'
